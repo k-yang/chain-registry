@@ -225,6 +225,37 @@
           ]
         },
         {
+  "description": "Gamercoin is a digital currency designed for the gaming industry.",
+  "type_asset": "erc20",
+  "address": "0x0C9516703F0B8E6d90F83d596e74C4888701C8fc",
+  "denom_units": [
+    {
+      "denom": "0x0C9516703F0B8E6d90F83d596e74C4888701C8fc",
+      "exponent": 0,
+      "aliases": [
+        "gac-wei"
+      ]
+    },
+    {
+      "denom": "gac",
+      "exponent": 18
+    }
+  ],
+  "base": "0x0C9516703F0B8E6d90F83d596e74C4888701C8fc",
+  "name": "Gamercoin",
+  "display": "GAC",
+  "symbol": "GAC",
+  "logo_URIs": {
+    "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/gac.svg"
+  },
+  "coingecko_id": "gamercoin",
+  "images": [
+    {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/gac.svg"
+    }
+  ],
+ },
+        {
           "denom": "link",
           "exponent": 18
         }
